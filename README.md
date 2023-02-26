@@ -6,9 +6,9 @@ To create a wiki-style tool for storing information about front-end development.
 
 ## Brief 
 
-You have been tasked with creating a wiki-style website for front-end developers to store information about coding including syntax, and examples of how to create elements for a site. 
+The task is to create a wiki-style website for front-end developers to store information about coding including syntax, and examples of how to create elements for a site. 
 
-Here are a list of functional requirements: 
+List of functional requirements: 
 - All users should be able to see a list of posts. 
 - All users should be able to search for a specific post. You can use client-side filtering, or use the search parameter on the API itself.  
 - A user should be able to log in 
