@@ -25,12 +25,11 @@ JWT Pluign is used for authitentication and create a new login.
 
 ## Built with
 - HTML
-- HTML
--CSS
--JavaScript
--VS Code
--Wordpress
--Bootstrap
+- CSS
+- JavaScript
+- VS Code
+- Wordpress
+- Bootstrap
 
 ## Setup
 -Clone repository
