@@ -1,4 +1,6 @@
 # Semester Project 2 Resit 
+![image](https://user-images.githubusercontent.com/72661374/224484935-1a095009-0191-4f47-bdd4-99183ba04709.png)
+
 
 ## Goal 
 
