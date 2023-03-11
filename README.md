@@ -25,7 +25,7 @@ JWT Pluign is used for authitentication and create a new login.
 
 ## Built with
 - HTML
--HTML
+- HTML
 -CSS
 -JavaScript
 -VS Code
