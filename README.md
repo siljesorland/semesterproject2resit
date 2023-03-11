@@ -23,4 +23,14 @@ WordPress is used as a headless CMS to manage the content.
 The content is being fetched from the Wordpress REST API.
 JWT Pluign is used for authitentication and create a new login.
 
-Built with
+## Built with
+-HTML
+-CSS
+-JavaScript
+-VS Code
+-Wordpress
+-Bootstrap
+
+## Setup
+-Clone repository
+-contact me at siljesorland@gmail.com for login details
